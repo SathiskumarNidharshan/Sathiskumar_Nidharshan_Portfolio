@@ -1,0 +1,55 @@
+Act as a world-class UI/UX designer and senior frontend developer. Completely redesign my existing personal developer portfolio into a stunning, futuristic, premium, and visually unique experience that stands out from ordinary developer portfolios.
+
+### 1. Design Direction
+- Create a distinctive, award-winning design inspired by modern Awwwards websites, creative developer portfolios, and premium digital experiences.
+- Use a modern combination of dark backgrounds, vibrant accent colours, subtle gradients, glassmorphism, and clean layouts.
+- Choose beautiful typography using fonts such as Inter, Space Grotesk, or Sora.
+- Make the design visually rich, professional, responsive, and memorable without overcrowding the interface.
+
+### 2. Animations and Interactions
+- Add smooth page transitions, scroll-triggered animations, text reveal effects, staggered entrance animations, and subtle hover interactions.
+- Create an attractive animated hero section with interactive elements and a creative introduction.
+- Add subtle cursor effects, animated gradients, floating elements, and micro-interactions where appropriate.
+- Use Framer Motion or the animation library already available in the project.
+- Keep animations smooth and performant, and respect reduced-motion accessibility preferences.
+
+### 3. Dark and Light Themes
+- Implement a fully functional dark/light theme toggle.
+- Design both themes carefully with consistent colours, readable text, and attractive contrast.
+- Persist the selected theme across page reloads using localStorage.
+- Make the theme switch animated and visually appealing.
+
+### 4. Portfolio Sections
+Redesign all existing sections, including:
+- **Hero:** Bold introduction, animated typography, professional role, call-to-action buttons, and a unique visual element.
+- **About Me:** Modern layout with a creative personal introduction and professional highlights.
+- **Skills:** Attractive interactive skill cards or visual skill categories.
+- **Projects:** Premium project cards with screenshots, technology tags, hover effects, and GitHub/live demo links where available.
+- **Experience:** Modern animated timeline showing my professional journey.
+- **Education:** Elegant education cards.
+- **Contact:** Beautiful contact section with functional links and an attractive contact form if one already exists.
+- **Footer:** Minimal, modern footer with social links and subtle interactions.
+
+Preserve all other existing sections and useful functionality.
+
+### 5. Advanced Visual Features
+Add suitable creative elements such as animated background patterns, gradient borders, interactive project previews, a custom loading animation, smooth scrolling, and a back-to-top button. Use these selectively to maintain a premium, professional appearance.
+
+### 6. Technical Requirements
+- First inspect my existing project structure, framework, dependencies, and current components.
+- Work with the existing technology stack and preserve my real portfolio content, project information, images, GitHub links, LinkedIn links, and contact details.
+- Reuse existing components where appropriate and refactor them when necessary.
+- Do not replace real information with fake content or create non-functional buttons.
+- Ensure full responsiveness across mobile, tablet, laptop, and desktop.
+- Follow accessibility, SEO, semantic HTML, and performance best practices.
+- Avoid unnecessary dependencies and use reusable, maintainable components.
+- Ensure all navigation, links, theme switching, animations, and existing features work correctly.
+
+### 7. Execution Instructions
+Do not just provide a design proposal or sample code. Implement the complete redesign directly in my existing project.
+
+Start by inspecting the codebase, then create a cohesive design system with consistent typography, colours, spacing, animations, and reusable components. Redesign every existing page and section to match the new visual direction.
+
+After implementation, run the available build, lint, and type checks. Fix any errors introduced by the redesign and verify the responsive layouts and interactive features.
+
+**Final goal:** Make my portfolio look like a premium, cutting-edge creative developer portfolio with a unique visual identity, smooth animations, beautiful typography, excellent dark/light themes, and a professional presentation that immediately impresses recruiters and clients.
